@@ -1,0 +1,5 @@
+train
+test_images
+weights_both_lungs           
+weights_right_lung.h5       
+pretrained_yolo_weights.h5 
